@@ -23,7 +23,7 @@ body{
     padding-top: 6rem;
     display: inline-block;
     font-size: 3.5rem;
-    color: #002e5f;
+    color: #002e5f;;
     position: relative;
     letter-spacing: .2rem;
 }
@@ -33,7 +33,7 @@ body{
     position: absolute;
     height: 2.5rem;
     width: 2.5rem;
-    border-top: .4rem solid #002e5f;
+    border-top: .4rem solid yellowgreen;
     border-left: .4rem solid #002e5f;
 }
 
@@ -163,7 +163,7 @@ body{
 }
 
 .home h1{
-    color: #fff;
+    color: white;
     font-size: 5.5rem;
 }
 
@@ -252,7 +252,7 @@ body{
     text-align: center;
   }
   .item{
-    background:#fff;
+    background:#685f5f;
     text-align: center;
     padding:30px 25px;
     box-shadow: 0 0 25px rgba(0,0,0,0.07);
@@ -1315,7 +1315,7 @@ body{
             letter-spacing: .1rem;
             opacity: .9;
             color: white;
-            background: #002e5f;
+            background: #5596db;
         }
 		.contact-form-phone
 		{
